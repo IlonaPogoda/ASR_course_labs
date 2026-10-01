@@ -1,0 +1,7 @@
+filename,sample_rate_hz,duration_s,num_samples,peak_amplitude,rms,silence_fraction,clipping_fraction
+clean_speech_like.wav,16000,5.2,83200,0.780029,0.250151,0.38893,2.4e-05
+clipped_speech_like.wav,16000,5.2,83200,0.340027,0.245213,0.29869,0.463798
+myspeech.wav,16000,9.28,148480,0.477351,0.080087,0.343043,1.3e-05
+noisy_speech_like.wav,16000,5.2,83200,0.920013,0.265441,0.0772,1.2e-05
+reverberant_speech_like.wav,16000,5.2,83200,0.880005,0.216411,0.385096,0.000108
+speed_perturbed_speech_like.wav,16000,4.522,72348,0.780029,0.250186,0.389244,1.4e-05
