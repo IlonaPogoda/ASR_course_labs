@@ -1,2 +1,4 @@
 .venvasr/
 .venvasr/
+.venv/
+__pycache__/
