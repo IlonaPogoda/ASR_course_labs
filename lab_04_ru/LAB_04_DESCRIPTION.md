@@ -56,9 +56,8 @@ python scripts/run_lab_04.py --output-dir outputs
 Затем "blank" - 0.45
 И снова "blank" - 0.45
 Вероятность этого пути будет:
-$$
-P(a, \text{blank}, \text{blank}) = 0.6 \cdot 0.45 \cdot 0.45 = 0.1215
-$$
+P(a, blank, blank) = 0.6 * 0.45 * 0.45 = 0.1215
+
 
 greedy,"[""a"",""blank"",""blank""]",a,
 
