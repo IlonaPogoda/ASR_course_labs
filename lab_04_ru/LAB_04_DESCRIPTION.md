@@ -56,11 +56,11 @@ python scripts/run_lab_04.py --output-dir outputs
 Затем "blank" - 0.45
 И снова "blank" - 0.45
 Вероятность этого пути будет:
-\[
-P(a,\ blank,\ blank)=0.6\cdot0.45\cdot0.45=0.1215
-\]
+$$
+P(a, \text{blank}, \text{blank}) = 0.6 \cdot 0.45 \cdot 0.45 = 0.1215
+$$
 
-greedy,,"[""a"",""blank"",""blank""]",a,
+greedy,"[""a"",""blank"",""blank""]",a,
 
 Beam Search сохраняет до пяти лучших текстовых префиксов после каждого кадра и суммирует вероятности путей, которые к ним приводят.
 
